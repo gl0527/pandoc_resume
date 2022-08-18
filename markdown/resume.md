@@ -1,100 +1,117 @@
-Johnny Coder
-============
+# Lajos Gurzo
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> Software engineer with 5+ years of experience, with a solid C++ background
+> and an interest in computer graphics, mathematics, embedded software and medical imaging.
 
 ----
 
-Education
----------
+## Education
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2016-2018
+:   **MSc, Computer Engineering**; Budapest University of Technology and Economics (Budapest)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis title: Developing a general purpose, component-based game engine*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+    Specialization: visual informatics; main subjects:
 
-    *Minor: Awesomeology*
+    * computer graphics: OpenGL
+    * game development: Ogre3D, Unity, Direct3D-11, HLSL, Bullet
+    * medical imaging: Matlab
+    * geometry: Qt, Blender, ParaView, OpenMesh
+    * GPU lab: modern OpenGL pipeline, CUDA
+    * GPGPU: OpenCL
+    * rendering: WebGL, Javascript
 
-Experience
-----------
+2012-2016
+:   **BSc, Computer Engineering**; Budapest University of Technology and Economics (Budapest)
 
-**Your Most Recent Work Experience:**
+    *Thesis title: Designing and implementing a component based game engine using Ogre3D and Bullet*
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+## Employment History
 
-* First item
+Sept 2021 - present
+:   Software engineer - **Ibeo Automotive Eindhoven**
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+    * Product: virtual environment for sensor simulation
+    * Technologies: Linux, Windows, C++, CMake, git
+    * Tools: Bitbucket, Jira, Jenkins, Confluence
+    * Notable projects:
+        * Test-drive re-simulation: Create 3D trajectories for vehicles from GPS measurement points, and integrate them into the simulation
+        * Licensing: Encrypt and license binaries using the Wibu toolchain
 
-**That Other Job You Had**
+Jan 2020 - Aug 2021
+:   Software engineer - **Cargometer GmbH**
 
-Also with a short description.
+    * Product: cargo measuring system used in logistics
+    * Technologies: Linux, C++, CMake, git, point clouds, ToF sensors
+    * Tools: Bitbucket, Jira, Confluence, TeamCity, NextCloud
+    * Notable projects:
+        * Azure Kinect integration into an existing internal streaming system
+        * Build 3D trajectories from 2D ArUco marker detections
+        * Real-time datamatrix detection for cargo identification
 
-Technical Experience
---------------------
+Jun 2019 - Sept 2019
+:   Software engineer - **Shapr3D**
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+    * Working on a 3D CAD software aimed for mobile devices in Swift and C++
+    * Methodology: agile
+    * Platform: IPad Pro
+    * IDE: XCode
+    * Version control system: git
+    * Other tools: Bitrise, Confluence, Figma, FireBase, Jira, Slack
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Jun 2017 - Jun 2019
+:   Software engineer - **Graphisoft SE**
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+    * Working on a 3D CAD software called ArchiCAD
+    * 14+M LOC (partly legacy) C/C++ codebase
+    * Methodology: waterfall
+    * Platform: Windows, Mac
+    * IDEs: Visual Studio, XCode
+    * Build system: Jam
+    * Version control system: Perforce
+    * Debugging tools: Process Monitor, Process Explorer, DebugView, Telerik Fiddler
+    * Other tools: Crucible, Jenkins, Microsoft Teams, TestTrack, Visual Assist
+    * Notable projects:
+        * Code coverage: I integrated a tool called CTC into our build system. Meanwhile I found some bugs in this tool and even in the MSVC compiler also.
+        * Distributed build: I integrated IncrediBuild into our build system. I achieved a 66% performance boost in the build process utilizing 44 cores from our local network.
+        * Telemetry: An internal tool was slow, had to figure out why. I used a thread to collect data from the tool, and another thread to periodically send the data to an internal
+        server in JSON format.
+        * Out-of-process crash reporting on Mac: I created a class for reading from and writing into the memory space of another process. I collected the module list
+	information of the managed process, and built up a call stack from that.
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Feb 2016 - Sept 2016
+:   Software engineering intern - **Ericsson**
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+    * Performance profiling and code coverage measurement of cloud-based applications
+    * Python and bash scripting
+    * Methodology: agile
+    * Platform: Ubuntu Linux
+    * IDEs: Eclipse, vi
+    * Build system: CMake
+    * Version control system: git
+    * Other tools: Jira, Jenkins
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+## Other skills
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+* Language skills:
 
-[ref]: https://github.com/githubuser/superlongprojectname
+    * Hungarian (native speaker)
+    * English (good, B2)
+    * Italian (beginner)
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* Job-related skills:
+    * confident problem solving skills
+    * analytical mindset
+    * fast decision making
+    * working with UML diagrams
+    * working with design patterns
+    * familiarity with the SOLID principles
+    * team player
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <gurzolajos27@gmail.com> • +31 6 441 277 09 • Skype: gurzolajos27 • [GitHub](https://github.com/gl0527)\
+> Helmond, Netherlands
