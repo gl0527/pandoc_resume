@@ -32,7 +32,7 @@
 ## Employment History
 
 Sept 2021 - present
-:   Software engineer - **Ibeo Automotive Eindhoven**
+:   Software engineer - **Ibeo Automotive Eindhoven** - *Eindhoven, Netherlands*
 
     * Product: virtual environment for sensor simulation
     * Technologies: Linux, Windows, C++, CMake, git
@@ -42,7 +42,7 @@ Sept 2021 - present
         * Licensing: Encrypt and license binaries using the Wibu toolchain
 
 Jan 2020 - Aug 2021
-:   Software engineer - **Cargometer GmbH**
+:   Software engineer - **Cargometer GmbH** - *Vienna, Austria*
 
     * Product: cargo measuring system used in logistics
     * Technologies: Linux, C++, CMake, git, point clouds, ToF sensors
@@ -53,7 +53,7 @@ Jan 2020 - Aug 2021
         * Real-time datamatrix detection for cargo identification
 
 Jun 2019 - Sept 2019
-:   Software engineer - **Shapr3D**
+:   Software engineer - **Shapr3D** - *Budapest, Hungary*
 
     * Working on a 3D CAD software aimed for mobile devices in Swift and C++
     * Methodology: agile
@@ -63,7 +63,7 @@ Jun 2019 - Sept 2019
     * Other tools: Bitrise, Confluence, Figma, FireBase, Jira, Slack
 
 Jun 2017 - Jun 2019
-:   Software engineer - **Graphisoft SE**
+:   Software engineer - **Graphisoft SE** - *Budapest, Hungary*
 
     * Working on a 3D CAD software called ArchiCAD
     * 14+M LOC (partly legacy) C/C++ codebase
@@ -83,7 +83,7 @@ Jun 2017 - Jun 2019
 	information of the managed process, and built up a call stack from that.
 
 Feb 2016 - Sept 2016
-:   Software engineering intern - **Ericsson**
+:   Software engineering intern - **Ericsson** - *Budapest, Hungary*
 
     * Performance profiling and code coverage measurement of cloud-based applications
     * Python and bash scripting
