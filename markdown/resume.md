@@ -3,7 +3,7 @@
 ----
 
 > Software engineer with 5+ years of experience, with a solid C++ background
-> and an interest in computer graphics, mathematics, embedded software and medical imaging.
+> and an interest in computer graphics, GPU programming, embedded software, image processing and computer vision.
 
 ----
 
