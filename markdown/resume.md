@@ -113,5 +113,5 @@ Feb 2016 - Sept 2016
 
 ----
 
-> <gurzolajos27@gmail.com> • +31 6 441 277 09 • Skype: gurzolajos27 • [GitHub](https://github.com/gl0527)\
+> <gurzolajos27@gmail.com> • +31 6 441 277 09 • [LinkedIn](www.linkedin.com/in/lajos-gurzo-3436a393) • Skype: gurzolajos27 • [GitHub](https://github.com/gl0527)\
 > Helmond, Netherlands
