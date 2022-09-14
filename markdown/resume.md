@@ -31,7 +31,7 @@
 
 ## Employment History
 
-Sept 2021 - present
+Sept 2021 - Sept 2022
 :   Software engineer - **Ibeo Automotive Eindhoven** - *Eindhoven, Netherlands*
 
     * Product: virtual environment for sensor simulation
