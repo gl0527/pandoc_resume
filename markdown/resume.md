@@ -35,7 +35,8 @@ Sept 2021 - Sept 2022
 :   Software engineer - **Ibeo Automotive Eindhoven** - *Eindhoven, Netherlands*
 
     * Product: virtual environment for sensor simulation
-    * Technologies: Linux Mint 19.3, Windows 10, C++17, CMake, git
+    * Technologies: Linux Mint 19.3, Windows 10, C++17, GoogleTest, Eigen, CMake, git
+    * IDEs: Visual Studio, Vim
     * Tools: Bitbucket, Jira, Jenkins, Confluence
     * Notable projects:
         * Test-drive re-simulation: Create 3D trajectories for vehicles from GPS measurement points, and integrate them into the simulation
@@ -45,7 +46,8 @@ Jan 2020 - Aug 2021
 :   Software engineer - **Cargometer GmbH** - *Vienna, Austria*
 
     * Product: cargo measuring system used in logistics
-    * Technologies: Debian 10, C++17, CMake, git, point clouds, ToF sensors
+    * Technologies: Debian 10, C++17, Boost, Eigen, OpenCV, PCL, Matrox, Azure Kinect, GoogleTest, CMake, git, point clouds, ToF sensors
+    * IDEs: Visual Studio Code, QtCreator, Vim
     * Tools: Bitbucket, Jira, Confluence, TeamCity, NextCloud
     * Notable projects:
         * Azure Kinect integration into an existing internal streaming system
