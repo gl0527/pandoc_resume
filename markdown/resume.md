@@ -35,7 +35,7 @@ Sept 2021 - Sept 2022
 :   Software engineer - **Ibeo Automotive Eindhoven** - *Eindhoven, Netherlands*
 
     * Product: virtual environment for sensor simulation
-    * Technologies: Linux, Windows, C++, CMake, git
+    * Technologies: Linux Mint 19.3, Windows 10, C++17, CMake, git
     * Tools: Bitbucket, Jira, Jenkins, Confluence
     * Notable projects:
         * Test-drive re-simulation: Create 3D trajectories for vehicles from GPS measurement points, and integrate them into the simulation
@@ -45,7 +45,7 @@ Jan 2020 - Aug 2021
 :   Software engineer - **Cargometer GmbH** - *Vienna, Austria*
 
     * Product: cargo measuring system used in logistics
-    * Technologies: Linux, C++, CMake, git, point clouds, ToF sensors
+    * Technologies: Debian 10, C++17, CMake, git, point clouds, ToF sensors
     * Tools: Bitbucket, Jira, Confluence, TeamCity, NextCloud
     * Notable projects:
         * Azure Kinect integration into an existing internal streaming system
@@ -55,7 +55,7 @@ Jan 2020 - Aug 2021
 Jun 2019 - Sept 2019
 :   Software engineer - **Shapr3D** - *Budapest, Hungary*
 
-    * Working on a 3D CAD software aimed for mobile devices in Swift and C++
+    * Working on a 3D CAD software aimed for mobile devices in Swift and C++17
     * Methodology: agile
     * Platform: IPad Pro
     * IDE: XCode
@@ -68,7 +68,7 @@ Jun 2017 - Jun 2019
     * Working on a 3D CAD software called ArchiCAD
     * 14+M LOC (partly legacy) C/C++ codebase
     * Methodology: waterfall
-    * Platform: Windows, Mac
+    * Platform: Windows 10, Mac
     * IDEs: Visual Studio, XCode
     * Build system: Jam
     * Version control system: Perforce
